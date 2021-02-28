@@ -7,7 +7,7 @@
 * Next.js (moveit-next) para o desenvolvimento do frontend
 * HTML e CSS para a estilização das páginas
 * Vercel para depoly
-* Algo bem interessante é que não utilizamos backende e aplicação está funcional, da uma espiada [MoveitJessikaAguiar](https://moveit-nine-drab.vercel.app/)
+* Algo bem interessante é que não utilizamos backend e aplicação está funcional, da uma espiada [MoveitJessikaAguiar](https://moveit-nine-drab.vercel.app/)
 
 ### Como baixar e rodar na sua máquina :ok_hand: ??
 1. Baixe o repositorio https://github.com/JessikaAguiar/NLW-4.git
